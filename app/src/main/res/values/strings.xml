@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pokédex</string>
+    <string name="detail_activity_title">Fiche Pokémon</string>
+    <string name="no_internet_connection">No Internet connection</string>
+    <string name="no_data">No Pokémons found</string>
+    <string name="action_share">Share</string>
+    <string name="base_text_share">Test MobiApps, pokémon sélectionné : </string>
+    <string name="chooser_text_share">Share using</string>
+    <string name="loading_tex">Please wait…</string>
+</resources>
